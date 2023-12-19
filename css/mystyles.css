@@ -1,0 +1,21 @@
+h2{
+    font-family:'Courier New', Courier, monospace;
+}
+.darkcolor{
+    background-color:rgb(105, 184, 240) !important;
+}
+.pinktext{
+    color:rgb(255, 160, 176) !important;
+}
+.bluetext{
+    color:rgba(105, 184, 240, 0.818) !important;
+}
+.emailtext{
+    color: rgb(238, 155, 169);
+}
+.emailtext:hover{
+    color: rgba(105, 184, 240, 0.818) !important;
+}
+.pinkcheck{
+    color:rgb(234, 133, 150) !important;
+}
